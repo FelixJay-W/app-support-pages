@@ -8,15 +8,15 @@ PhotoGlow is available at these paths after deployment:
 - `/photoglow/privacy/`
 - `/photoglow/terms/`
 
-Stampora Camera's localized privacy policy is available at:
+Stampora Camera publishes privacy, terms, and support pages under language-first paths:
 
-- `/stampora-camera/privacy/` (Simplified Chinese)
-- `/stampora-camera/privacy/zh-Hant/` (Traditional Chinese)
-- `/stampora-camera/privacy/en/` (English)
+- `/stampora/en/{privacy,terms,support}/`
+- `/stampora/zh-hans/{privacy,terms,support}/`
+- `/stampora/zh-hant/{privacy,terms,support}/`
 
 ## Before publishing
 
-1. Confirm that `rhb2517@gmail.com` can receive mail. This is the only public support contact currently shown on the site.
+1. Confirm that the public support contacts can receive mail: `rhb2517@gmail.com` for PhotoGlow and `rhbjlz@outlook.com` for Stampora Camera.
 2. Review the PhotoGlow policy against the release build whenever analytics, advertising, cloud processing, accounts, or a new SDK is added.
 3. Keep the website text and App Store privacy answers consistent. The current release states that the developer does not collect data through the app.
 

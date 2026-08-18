@@ -75,17 +75,23 @@ https://GITHUB_USERNAME.github.io/app-support-pages/photoglow/terms/
 - Privacy 和 Terms 页面能完整滚动阅读。
 - 页面没有文字截断或横向滚动。
 
-Stampora Camera 的隐私政策地址为：
+Stampora Camera 的公开页面地址为：
 
 ```text
-简体中文（App Store Connect 默认地址）
-https://GITHUB_USERNAME.github.io/app-support-pages/stampora-camera/privacy/
-
-繁体中文
-https://GITHUB_USERNAME.github.io/app-support-pages/stampora-camera/privacy/zh-Hant/
-
 English
-https://GITHUB_USERNAME.github.io/app-support-pages/stampora-camera/privacy/en/
+https://GITHUB_USERNAME.github.io/app-support-pages/stampora/en/privacy/
+https://GITHUB_USERNAME.github.io/app-support-pages/stampora/en/terms/
+https://GITHUB_USERNAME.github.io/app-support-pages/stampora/en/support/
+
+简体中文
+https://GITHUB_USERNAME.github.io/app-support-pages/stampora/zh-hans/privacy/
+https://GITHUB_USERNAME.github.io/app-support-pages/stampora/zh-hans/terms/
+https://GITHUB_USERNAME.github.io/app-support-pages/stampora/zh-hans/support/
+
+繁體中文
+https://GITHUB_USERNAME.github.io/app-support-pages/stampora/zh-hant/privacy/
+https://GITHUB_USERNAME.github.io/app-support-pages/stampora/zh-hant/terms/
+https://GITHUB_USERNAME.github.io/app-support-pages/stampora/zh-hant/support/
 ```
 
 ## 6. 填写 App Store Connect
