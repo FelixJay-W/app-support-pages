@@ -75,6 +75,19 @@ https://GITHUB_USERNAME.github.io/app-support-pages/photoglow/terms/
 - Privacy 和 Terms 页面能完整滚动阅读。
 - 页面没有文字截断或横向滚动。
 
+Stampora Camera 的隐私政策地址为：
+
+```text
+简体中文（App Store Connect 默认地址）
+https://GITHUB_USERNAME.github.io/app-support-pages/stampora-camera/privacy/
+
+繁体中文
+https://GITHUB_USERNAME.github.io/app-support-pages/stampora-camera/privacy/zh-Hant/
+
+English
+https://GITHUB_USERNAME.github.io/app-support-pages/stampora-camera/privacy/en/
+```
+
 ## 6. 填写 App Store Connect
 
 ### App 版本信息
@@ -145,4 +158,3 @@ cp -R templates/app site/my-new-app
 3. 在 `site/CNAME` 中只写域名。
 4. DNS 生效后启用 **Enforce HTTPS**。
 5. 新地址全部验证成功后，再修改 App Store Connect，避免审核时链接失效。
-

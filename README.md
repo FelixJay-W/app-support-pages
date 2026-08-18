@@ -8,6 +8,12 @@ PhotoGlow is available at these paths after deployment:
 - `/photoglow/privacy/`
 - `/photoglow/terms/`
 
+Stampora Camera's localized privacy policy is available at:
+
+- `/stampora-camera/privacy/` (Simplified Chinese)
+- `/stampora-camera/privacy/zh-Hant/` (Traditional Chinese)
+- `/stampora-camera/privacy/en/` (English)
+
 ## Before publishing
 
 1. Confirm that `rhb2517@gmail.com` can receive mail. This is the only public support contact currently shown on the site.
